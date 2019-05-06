@@ -51,7 +51,7 @@ YOU_PROJECT_ROOT/logs/info-2019-05-06.log<br>
 config
 ---
 ```javascript
-//subPaht & fileName support format "YYYY-MM-DD hh:mm:ss"
+//subPath & fileName support format "YYYY-MM-DD hh:mm:ss"
 log.config({
     path: './path',
     subPath: 'YYYY-MM',

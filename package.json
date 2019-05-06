@@ -1,6 +1,6 @@
 {
-  "name": "koa-log",
-  "version": "1.0.0",
+  "name": "simple-koa-log",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,10 @@
     "log",
     "log2file"
   ],
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/shb190802/simple-koa-log.git"
+  },
   "author": "suohongbo",
   "license": "ISC"
 }
