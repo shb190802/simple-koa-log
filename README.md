@@ -13,7 +13,7 @@ use
 ```javascript
 const Koa = require('koa')
 const KoaRouter = require('koa-router')
-const log = require('koa-log')
+const log = require('simple-koa-log')
 var app = new Koa();
 var router = new KoaRouter();
 
